@@ -1,0 +1,14 @@
+{
+  "data": {
+    "products": {
+      "items": [
+        { "id": 1, "name": "Wireless Headphones", "price": 79.99, "category": { "CategoryName": "Electronics" } },
+        { "id": 2, "name": "USB-C Cable", "price": 12.99, "category": { "CategoryName": "Electronics" } },
+        { "id": 3, "name": "Laptop Stand", "price": 45, "category": { "CategoryName": "Electronics" } },
+        { "id": 4, "name": "Cotton T-Shirt", "price": 24.99, "category": { "CategoryName": "Clothing" } },
+        { "id": 5, "name": "Running Shoes", "price": 89.99, "category": { "CategoryName": "Clothing" } },
+        { "id": 6, "name": "Garden Hose", "price": 34.99, "category": { "CategoryName": "Home & Garden" } }
+      ]
+    }
+  }
+}

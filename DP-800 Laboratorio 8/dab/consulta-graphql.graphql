@@ -1,0 +1,12 @@
+query {
+  products {
+    items {
+      id
+      name
+      price
+      category {
+        CategoryName
+      }
+    }
+  }
+}
